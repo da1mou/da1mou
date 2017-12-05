@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://7xnusr.com1.z0.glb.clouddn.com/o_1bqcc6jja1gnb1mbh1vg0kumqja7.ipa?e=1523590981&token=8e4YkwOPAwrhUijy7FMfODl6WpNWmF9LiYknl5WH:DkneW551ktzzU5b0nY85o6FGQ7I=
+</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://7xnvqo.com1.z0.glb.clouddn.com/f7181c27aa89d5b825b65b6764b6df387cc7f352</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://7xnvqo.com1.z0.glb.clouddn.com/f7181c27aa89d5b825b65b6764b6df387cc7f352</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xunlei.iosthunder</string>
+				<key>bundle-version</key>
+				<string>5.29.1.2316</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>迅雷</string>
+				<key>title</key>
+				<string>迅雷beta-更多分享关注公众号：da1maou</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
